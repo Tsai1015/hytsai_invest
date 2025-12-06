@@ -1,6 +1,5 @@
 import pandas as pd
 
-test2
 def create_TaiwanStock(month):
 # 取得台股上市 & 上櫃公司名單
     twseurl_1 = 'https://isin.twse.com.tw/isin/C_public.jsp?strMode=2'

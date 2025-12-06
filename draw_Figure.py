@@ -3,7 +3,6 @@ import matplotlib
 import mplfinance as mpf
 import yfinance as yf
 from curl_cffi import requests
-test1
 
 # plt.rcParams['font.family'] = 'Microsoft JhengHei'
 matplotlib.rc('font', family='Microsoft JhengHei')
