@@ -28,3 +28,5 @@ def create_TaiwanStock(month):
     Taiwan_stock = Listed_OTC_company["證券代號"].tolist()
     
     return Taiwan_stock
+    
+test2
